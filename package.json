@@ -1,0 +1,16 @@
+{
+  "name": "benchex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start2": "node main.js",
+    "start": "/opt/jdk/graal/graalvm-ee-1.0.0-rc10/bin/node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "2.1.4"
+  }
+}
